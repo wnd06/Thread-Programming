@@ -1,10 +1,17 @@
 ![](https://raw.githubusercontent.com/nhnacademy-bootcamp/java-thread-programming/689b48726478b78bffe92df19bec7f75fadf4805/doc/1.process_vs_thread/image/process_vs_thread2.svg?token=ASZDETL45L4H5DCYIK3HXO3FFTN7C)
 
 - 실행 중인 프로그램을 의미한다.
+
+- 자원(메모리, CPU ...)과 스레드로 구성
+
 - [[스케줄링]]의 대상이 되는 작업(task)과 같은 의미로 쓰인다.
+
 - [[Storage]]의 프로그램을 실행하면, 실행을 위해서 메모리 할당이 이루어지고 할당된 메모리 공간으로 바이너리 코드가 올라간다.
 	- 이 순간 부터 process라고 불린다. (ready -> running)
+
 - Process는 하나 이상의 스레드 구성이 된다.
+
+- 모든 프로세스는 최소한 하나의 스레드를 가지고 있다.
 
 
 #### 프로세스 구성
@@ -12,6 +19,7 @@
 
 ### 프로세스 관리
 - 운영체제는 프로세스들의 실행 사이에 프로세스를 교체하고 재시작할 때 오류가 발생하지 않도록 관리해야 한다.
+
 - 운영체제는 프로세스의 상태를 실행, 준비, 블록 상태로 분류하고 프로세스들을 State transition(상태전이)를 통해 체계적으로 관리한다.
 
 - ![](https://velog.velcdn.com/images/jhon3242/post/732f103d-5790-4899-9d23-9bc107d47ff4/image.png)
