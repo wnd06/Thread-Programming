@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Thread 구현과 실행.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eb8825d60697df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Thread.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "114ac316e9b9ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블락킹(Blocking).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23614a9782f70775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thread의 우선순위(priority of thread).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e042b5f7e6358831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thread 그룹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d9a4a804ae058b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daemon thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c4e6772dd2c7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thread의 상태.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thread.md",
+                "file": "Thread의 상태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thread.md",
+                "file": "Thread의 상태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thread.md"
+                "file": "Thread의 상태.md"
               }
             }
           }
@@ -146,13 +219,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eab5dc4ba7e9588a",
+  "active": "f0c4e6772dd2c7a5",
   "lastOpenFiles": [
-    "스크린샷 2023-10-17 오전 9.25.11.png",
-    "스크린샷 2023-10-17 오전 9.23.57.png",
-    "Process.md",
-    "Storage.md",
+    "image/스크린샷 2023-10-17 오후 5.37.13.png",
+    "Thread의 상태.md",
+    "Daemon thread.md",
+    "Thread 그룹.md",
+    "Thread의 우선순위(priority of thread).md",
+    "블락킹(Blocking).md",
+    "Thread.md",
+    "main Thread.md",
+    "Thread 구현과 실행.md",
+    "image/스크린샷 2023-10-17 오후 2.28.27.png",
+    "thread_class_extention_Quiz.md",
+    "image/스크린샷 2023-10-17 오전 9.23.57.png",
     "스케줄링.md",
-    "Thread.md"
+    "image",
+    "image/스크린샷 2023-10-17 오전 9.25.11.png",
+    "Process.md",
+    "Storage.md"
   ]
 }
