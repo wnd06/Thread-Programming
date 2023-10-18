@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thread의 상태.md",
+                "file": "Interrupt().md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thread의 상태.md",
+                "file": "Interrupt().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thread의 상태.md",
+                "file": "Interrupt().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thread의 상태.md"
+                "file": "Interrupt().md"
               }
             }
           }
@@ -219,10 +219,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f0c4e6772dd2c7a5",
+  "active": "c8ff2a05faf8812b",
   "lastOpenFiles": [
-    "image/스크린샷 2023-10-17 오후 5.37.13.png",
     "Thread의 상태.md",
+    "image/스크린샷 2023-10-17 오후 5.37.13.png",
     "Daemon thread.md",
     "Thread 그룹.md",
     "Thread의 우선순위(priority of thread).md",
