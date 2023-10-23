@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b0dbccbd155b807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thread Pool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9c33e8abf0f055e3",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semaphore.md",
+                "file": "Thread Pool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semaphore.md",
+                "file": "Thread Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semaphore.md"
+                "file": "Thread Pool.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c839a1870e60872",
+  "active": "1b0dbccbd155b807",
   "lastOpenFiles": [
-    "교착상태(Dead Lock).md",
+    "Thread.md",
+    "Thread Pool.md",
     "semaphore.md",
+    "교착상태(Dead Lock).md",
     "스레드의 동기화 (synchronization).md",
     "임계 영역.md",
     "Interrupt().md",
@@ -183,7 +197,6 @@
     "Thread 그룹.md",
     "Thread의 우선순위(priority of thread).md",
     "블락킹(Blocking).md",
-    "Thread.md",
     "main Thread.md",
     "image/스크린샷 2023-10-17 오후 2.28.27.png",
     "image/스크린샷 2023-10-17 오전 9.23.57.png",
